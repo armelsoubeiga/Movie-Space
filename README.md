@@ -1,4 +1,4 @@
-![](https://github.com/armelsoubeiga/Movie-Space/blob/master/bg.PNG
+![](https://github.com/armelsoubeiga/Movie-Space/blob/master/bg.PNG)
 
 
 # Movie-Space
